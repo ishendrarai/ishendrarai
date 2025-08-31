@@ -12,9 +12,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ishendrarai" alt="visitors"/>   
 </p>
 
-<!--   Python & Java Logo with Link  -->
-![](./src/header_.png)
 
+![](./src/header_.png)
+<!--   Python & Java Logo with Link  -->
 <a href="https://www.java.com/">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80" width="80">
 </a>
@@ -23,13 +23,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="80" width="80" >
 </a>
 
+<!--   my-ticker 
 
-
-<!--   Python Logo with Link  -->
-<!-- <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 
 <!--   Name Display -->    
-<!--   my-ticker -->    
+   
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg) --> 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -94,7 +92,7 @@ Coding Platform
 
 | Twitter | LinkedIn | Gmail | WhatsApp |
 |---------|----------|-------|----------|
-| <a href="https://x.com/ishendrarai02" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="40" width="40"/></a> | <a href="https://linkedin.com/in/ishendrarai" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a> | <a href="mailto:ishurai.020804@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40"/></a> | <a href="https://api.whatsapp.com/send?phone=+919305859379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
+| <a href="https://x.com/ishendrarai02" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="40" width="40"/></a> | <a href="https://linkedin.com/in/ishendrarai" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a> | <a href="mailto:ishurai.020805@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40"/></a> | <a href="https://api.whatsapp.com/send?phone=+919305859379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
 
 </div>
 
@@ -196,7 +194,17 @@ width="30%">
 ### Profile Views
 counting of visitors to this page in this section started from 1 September, 2025
 
+<!--Stars&Follow-->
 ![](https://count.getloli.com/get/@ishendrarai.github.readme)
 </br>
+<p align="center">
+  <a href="https://github.com/ishendrarai?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishendrarai"/>
+  </a>
+  <a href="https://github.com/ishendrarai?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/ishendrarai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+</p>
+
 
 ![](assets/Bottom_down.svg)
