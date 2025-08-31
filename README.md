@@ -1,5 +1,7 @@
-<!--   Banner -->
-![](assets/Banner_up.svg)
+
+<div id="#top"></div>
+<!--   Banner 
+![](assets/Banner_up.svg)-->
 
 <!--   my-icons -->
 <p align="center">
@@ -167,28 +169,26 @@ width="30%">
 }
 
 ```
-![badges_37-46.png](src%2Fbadges_37-46.png)
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishendrarai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=ishendrarai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+<!--![badges_37-46.png](src%2Fbadges_37-46.png)
 ![badges_25-36.png](src%2Fbadges_25-36.png)
 ![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
+![badges_1-12.png](src%2Fbadges_1-12.png)-->
 
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/ishendrarai/count.svg">  
-
-**👀 Visitors (counting since September 1, 2025):**
-
-<p align="center">
-  <a href="https://info.flagcounter.com/qDAy">
-    <img src="https://s01.flagcounter.com/count2/qDAy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_65/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
-</p>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date)](https://www.star-history.com/#ishendrarai/ishendrarai&Date)
-
+ ## ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date)](https://star-history.com/#ishendrarai/ishendrarai&Date)
 
 ### 📊 Profile Insights  
 
@@ -209,19 +209,237 @@ width="30%">
   </a>
 </p>
 
+**👀 Visitors (counting since September 1, 2025):**
+
+<p align="center">
+  <a href="https://info.flagcounter.com/qDAy">
+    <img src="https://s01.flagcounter.com/count2/qDAy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_65/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+</p>
+
 
 <!-- Social icons section -->
 
 <!--iconChange-->
+### 📫 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/ishendrarai"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ishendrarai"><img width="32px" alt="DEV" title="DEV" src="https://i.imgur.com/mVm29vK.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.com/u/ishendrarai/"><img width="32px" alt="LeetCode" title="LeetCode Profile" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.hackerrank.com/profile/ishendrarai"><img width="32px" alt="HackerRank" title="HackerRank Profile" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://www.linkedin.com/in/ishendrarai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:ishurai.020805@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/ishendrarai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ishendrarai" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/ishendrarai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/ishendrarai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
+  </a>
 </p>
 
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ishendra-rai&color=blue" alt="Profile views"/>
+</p>
+
+<!-- 🛠️ Languages and Tools -->
+
+<details>
+  <summary align="left">
+    <h3>🛠️ Languages & Tools</h3>
+  </summary>
+
+  <br/>
+
+  <table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/><br/>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/><br/>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/><br/>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/><br/>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70"/><br/>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70"/><br/>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="70" height="70"/><br/>Tailwind</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70"/><br/>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70"/><br/>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/><br/>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/><br/>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70"/><br/>VS Code</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/><br/>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/><br/>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/><br/>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70"/><br/>Express</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70"/><br/>Postman</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70"/><br/>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70"/><br/>NPM</td>
+  </tr>
+  </table>
+
+</details>
+
+<details>
+  <summary><h3>💻 My favorite tools and technologies</h3></summary>
+
+  <div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+        <br>Webpack
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C#
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <br>Django
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <br>Github
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <br>CSS
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+        <br>Kubernetes
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <br>Nodejs
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+        <br>Express.js
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <br>VsCode
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+        <br>Jenkins
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+        <br>Ansible
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+        <br>Netlify
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
+        <br>Heroku
+      </td>
+    </tr>
+  </table>
+  </div>
+</details>
+
+
+<!-- activity graph heroku-app start -->
+<div align="center">
+  <a href="https://github.com/ishendrarai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishendrarai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="activity graph"/>
+  </a>
+</div>
+<!-- GuestBook -->
+<h2>📖 Guestbook</h2>
+<p>
+  Leave a cool message for me or just say you passed by 
+  <a href="https://github.com/ishendrarai/ishendrarai/issues/new?template=guestbook-entry.md">here</a>!
+</p>
+<p>
+  Or ask me anything at 
+  <a href="https://github.com/ishendrarai/ishendrarai/discussions/new/choose">Discussions</a>!
+</p>
+
+<!-- Your Back to Top button -->
+<p align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
+  </a>
+</p>
+
+<!-- Footer -->
+<div align="center">
+  <img alt="footer" width="100%" src="https://github.com/ishendrarai/ishendrarai/blob/main/assets/footer.png">
+</div>
 
 ![](assets/Bottom_down.svg)
