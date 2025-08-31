@@ -189,19 +189,38 @@ width="30%">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date)](https://www.star-history.com/#ishendrarai/ishendrarai&Date)
 
-### Profile Views
-counting of visitors to this page in this section started from 1 September, 2025
 
-<!--Stars&Follow-->
-![](https://count.getloli.com/get/@ishendrarai.github.readme)
-</br>
+### 📊 Profile Insights  
+
+<p align="center">
+  <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@ishendrarai.github.readme" alt="Visitor Counter"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/ishendrarai?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishendrarai"/>
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishendrarai"/>
   </a>
   <a href="https://github.com/ishendrarai?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/ishendrarai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/ishendrarai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
+</p>
+
+
+<!-- Social icons section -->
+
+<!--iconChange-->
+<p align="center">
+  <a href="https://linkedin.com/in/ishendrarai"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/ishendrarai"><img width="32px" alt="DEV" title="DEV" src="https://i.imgur.com/mVm29vK.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://leetcode.com/u/ishendrarai/"><img width="32px" alt="LeetCode" title="LeetCode Profile" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.hackerrank.com/profile/ishendrarai"><img width="32px" alt="HackerRank" title="HackerRank Profile" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
 
