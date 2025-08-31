@@ -138,9 +138,7 @@ width="30%">
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-<!-- Belarus - My Home-->
-  
- <!-- Belarus - My Home-->
+<!-- Jhansi - My Home-->
   
  ```geojson
 {
@@ -187,9 +185,9 @@ width="30%">
   </a>
 </p>
 
-## ⭐ Star History
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date)](https://star-history.com/#ishendrarai/ishendrarai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date)](https://www.star-history.com/#ishendrarai/ishendrarai&Date)
 
 ### Profile Views
 counting of visitors to this page in this section started from 1 September, 2025
