@@ -58,9 +58,12 @@
 ### 📈 GitHub Activity Graph:
 
 <!--  Github-Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+  | . |
+  |---|
+  |<img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" />|
+</div>
 
 <!--   stats + languages -->
 <div align="center">
@@ -74,11 +77,12 @@
 
 <!--   green snake  -->
 <div align="center">
-
-  ![GitHub Snake Light](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only)  
+  <!-- Light mode -->
+  ![GitHub Snake Light](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only)
+  <!-- Dark mode -->
   ![GitHub Snake Dark](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only)
-
 </div>
+
 
 
 
