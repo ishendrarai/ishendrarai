@@ -423,12 +423,6 @@ graph TD;
   <a href="https://github.com/ishendrarai/ishendrarai/discussions/new/choose">Discussions</a>!
 </p>
 
-<!-- Your Back to Top button -->
-<p align="right">
-  <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
-  </a>
-</p>
 
 
 
@@ -437,6 +431,29 @@ graph TD;
 <p align="center">
   <img src="./assets/Banner_down.gif" alt="Banner_up" height="200" width="854">
 </p>
+
+
+<!-- Your Back to Top button -->
+<p align="middle">
+  <a href="#top">
+    <!-- Dark mode badge -->
+    <img 
+      src="https://img.shields.io/static/v1?label&message=back+to+top&color=ffffff&style=flat&logo#gh-dark-mode-only" 
+      alt="back to top (dark mode)" 
+      width="120"
+    />
+    <!-- Light mode badge -->
+    <img 
+      src="https://img.shields.io/static/v1?label&message=back+to+top&color=000000&style=flat&logo#gh-light-mode-only" 
+      alt="back to top (light mode)" 
+      width="120"
+    />
+  </a>
+</p>
+
+
+
+
    <!--Coding Platform tropy
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
