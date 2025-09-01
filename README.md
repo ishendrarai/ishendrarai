@@ -437,20 +437,19 @@ graph TD;
 <p align="center">
   <!-- Dark mode badge -->
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=ffffff&style=flat&logo"
+    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=ffffff&style=flat&logo#gh-dark-mode-only"
          alt="back to top"
-         width="100"
-         #gh-dark-mode-only />
+         width="100" />
   </a>
 
   <!-- Light mode badge -->
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=000000&style=flat&logo"
+    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=000000&style=flat&logo#gh-light-mode-only"
          alt="back to top"
-         width="100"
-         #gh-light-mode-only />
+         width="100" />
   </a>
 </p>
+
 
 
 
