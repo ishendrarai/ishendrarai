@@ -1,12 +1,14 @@
 ---
-name: 💬 Guestbook Entry
-about: Leave a message in my guestbook
-title: "New Guestbook Entry"
-labels: ["guestbook"]
-assignees: []
+name: "\U0001F4D6 Guestbook entry"
+about: "Leave a cool message to me! \U0001F4DD"
+title: "<your_username> was here!"
+labels: guest
+assignees: ''
+
 ---
 
-# 👋 Thanks for stopping by!
+**I've found your profile through:**
+<!-- Let me know how you found me -->
 
-Leave your message below:
-
+**Message:**
+<!-- Write your message here -->
