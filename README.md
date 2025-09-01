@@ -241,11 +241,7 @@ graph TD;
   </a>
 </p>
 
-#### Thanks for visiting :heart:
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ishendra-rai&color=blue" alt="Profile views"/>
-</p>
 
 <!-- 🛠️ Languages and Tools -->
 
@@ -413,7 +409,10 @@ graph TD;
 
 
 <!-- GuestBook -->
-<h2>📖 Guestbook</h2>
+<h2>📖 Guestbook 📖 </h2>
+<p>
+  If you liked my Profile, you can Star ⭐ this Repo
+<p>
 <p>
   Leave a cool message for me or just say you passed by 
   <a href="https://github.com/ishendrarai/ishendrarai/issues/new?template=guestbook-entry.md">here</a>!
@@ -432,6 +431,10 @@ graph TD;
   <img src="./assets/Banner_down.gif" alt="Banner_up" height="200" width="854">
 </p>
 
+<!-- Profile Views--> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ishendra-rai&color=blue" alt="Profile views"/>
+</p>
 
 <!-- Your Back to Top button -->
 <p align="middle">
