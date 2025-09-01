@@ -54,49 +54,59 @@
 | **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<!-- 📈 GitHub Activity Graph-->
+<details>
+  <summary><h1>📈 GitHub Activity Graph 📈</summary>
+  <br/>
 
-<!--  Github-Stats -->
-<div align="center">
+  <!--  Github-Stats -->
+  <div align="center">
 
-  | . |
+  | 🔥 Contribution Streak 🔥|
   |---|
   |<img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" />|
-</div>
+  </div>
 
-<!--   stats + languages -->
-<div align="center">
+  <!--   stats + languages -->
+  <div align="center">
 
-| . | . |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
+  | 📊 GitHub Stats 📊| 💻 Top Languages 💻 |
+  |---|---|
+  | <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
 
-</div>
+  </div>
 
-
-<!--   green snake  -->
-<div align="center">
+  <!--   green snake  -->
+  <div align="center">
+      <h2> 🐍 Snake Graph Table 🐍
   <!-- Light mode -->
-  ![GitHub Snake Light](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only)
+  <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only" 
+       alt="GitHub Snake Light" />
   <!-- Dark mode -->
-  ![GitHub Snake Dark](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only)
+  <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only" 
+       alt="GitHub Snake Dark" />
+
+  </div>
+<div align="center">
+  <h3>🏆 GitHub Trophies 🏆</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+<!-- activity graph heroku-app start -->
+<div align="center">
+  <a href="https://github.com/ishendrarai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishendrarai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="activity graph"/>
+  </a>
+</div>
+
+</details>
 
 
 
 
-<!--   profile-green-animate 
-![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-<!--   grid-snake  
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
-2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>-->
+
 
 **📫 How to Reach Me:**
 <div align="center">
@@ -114,14 +124,6 @@
 |---|---|---|---|
 </div>
 -->
-   <!--Git-HUB-->
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishendrarai" alt="ishendrarai" /></a>
-</p>
 
 
    <!--machine-learning-->
@@ -135,19 +137,7 @@ graph TD;
     machine-learning-->Deployment;
    ```
 
-   <!--Coding Platform tropy-->
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!-- Jhansi - My Home-->
   
@@ -186,8 +176,7 @@ width="30%">
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=ishendrarai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
@@ -422,12 +411,7 @@ width="30%">
 </details>
 
 
-<!-- activity graph heroku-app start -->
-<div align="center">
-  <a href="https://github.com/ishendrarai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishendrarai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="activity graph"/>
-  </a>
-</div>
+
 <!-- GuestBook -->
 <h2>📖 Guestbook</h2>
 <p>
@@ -452,3 +436,17 @@ width="30%">
 </div>
 
 ![](assets/Bottom_down.svg)
+
+   <!--Coding Platform tropy
+<div align="center">
+<summary>Trophy: Hackerrank Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+
+<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+width="30%">
+
+</p>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
