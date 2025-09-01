@@ -21,10 +21,7 @@
 <a href="https://www.java.com/">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80" width="80">
 </a>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishendrarai/">
-    <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/main/src/Entrepreneur.png" height="120" width="120" alt="Entrepreneur Logo" />
-  </a>
+
 <a href="https://www.python.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="70" width="70" >
 </a>
