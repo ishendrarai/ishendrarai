@@ -435,7 +435,7 @@ graph TD;
   <img alt="footer" width="100%" src="https://github.com/ishendrarai/ishendrarai/blob/main/assets/footer.png">
 </div>
 
-![](assets/Bottom_down.png)
+![](assets/Bottom_down.gif)
 
    <!--Coding Platform tropy
 <div align="center">
