@@ -57,28 +57,31 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake  -->
-![GitHub Snake Light](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only) 
+<!--  Github-Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" />
+</p>
 
 <!--   stats + languages -->
 <div align="center">
 
 | . | . |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=radical&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=radical&layout=compact" alt="Top Langs" height="180px"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
+
+</div>
+
+
+<!--   green snake  -->
+<div align="center">
+
+  ![GitHub Snake Light](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only)  
+  ![GitHub Snake Dark](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only)
 
 </div>
 
 
 
-<!--  Github-Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishendrarai" alt="GitHub Streak" />
-</p>
-
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate 
 ![](./profile-3d-contrib/profile-green-animate.svg) -->
