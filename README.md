@@ -1,7 +1,7 @@
 <div id="#top"></div>
 <!--   Banner -->
 <p align="center">
-  <img src="./assets/Banner_up1.gif" alt="Banner_up" height="200" width="854">
+  <img src="./assets/Banner_up.gif" alt="Banner_up" height="200" width="854">
 </p>
 
 
