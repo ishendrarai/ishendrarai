@@ -434,21 +434,16 @@ graph TD;
 
 
 <!-- Your Back to Top button -->
-<p align="center">
-  <!-- Dark mode badge -->
+<p align="middle">
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=ffffff&style=flat&logo#gh-dark-mode-only"
-         alt="back to top"
-         width="100" />
-  </a>
-
-  <!-- Light mode badge -->
-  <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=000000&style=flat&logo#gh-light-mode-only"
-         alt="back to top"
-         width="100" />
+    <img 
+      src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=050f2c&style=flat&logo" 
+      alt="back to top" 
+      width="100"
+    />
   </a>
 </p>
+
 
 
 
