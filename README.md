@@ -1,6 +1,7 @@
 <div id="#top"></div>
-<!--   Banner 
-![](assets/Banner_up.gif)-->
+<!--   Banner -->
+<img src="./assets/Banner_up1.gif" alt="Banner_up" height="200" width="854">
+
 
 <!--   my-icons -->
 <p align="center">
