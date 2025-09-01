@@ -56,21 +56,21 @@
 
 <!-- 📈 GitHub Activity Graph-->
 <details>
-  <summary><h1>📈 GitHub Activity Graph 📈</summary>
+  <summary><h1>📈 GitHub Activity Graph 📈</h1></summary>
   <br/>
 
   <!--  Github-Stats -->
   <div align="center">
 
-  | 🔥 Contribution Streak 🔥|
+  | 🔥 Contribution Streak 🔥 |
   |---|
-  |<img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" />|
+  | <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" /> |
   </div>
 
   <!--   stats + languages -->
   <div align="center">
 
-  | 📊 GitHub Stats 📊| 💻 Top Languages 💻 |
+  | 📊 GitHub Stats 📊 | 💻 Top Languages 💻 |
   |---|---|
   | <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
 
@@ -78,26 +78,35 @@
 
   <!--   green snake  -->
   <div align="center">
-      <h2> 🐍 Snake Graph Table 🐍
-  <!-- Light mode -->
-  <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only" 
-       alt="GitHub Snake Light" />
-  <!-- Dark mode -->
-  <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only" 
-       alt="GitHub Snake Dark" />
-
+    <h3>🐍 Snake Graph Table 🐍</h3>
+    <!-- Light mode -->
+    <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only" 
+         alt="GitHub Snake Light" />
+    <!-- Dark mode -->
+    <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only" 
+         alt="GitHub Snake Dark" />
   </div>
-<div align="center">
-  <h3>🏆 GitHub Trophies 🏆</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
-<!-- activity graph heroku-app start -->
-<div align="center">
-  <a href="https://github.com/ishendrarai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishendrarai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="activity graph"/>
-  </a>
-</div>
+  <!-- trophies -->
+  <div align="center">
+    <h3>🏆 GitHub Trophies 🏆</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </div>
+
+  <!-- activity graph -->
+  <div align="center">
+    <a href="https://github.com/ishendrarai">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishendrarai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="activity graph"/>
+    </a>
+  </div>
+
+  <!-- star history -->
+  <div align="center">
+    <h3>⭐ Star History ⭐</h3>
+    <a href="https://star-history.com/#ishendrarai/ishendrarai&Date">
+      <img src="https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date" alt="Star History Chart"/>
+    </a>
+  </div>
 
 </details>
 
@@ -185,8 +194,7 @@ graph TD;
 ![badges_13-24.png](src%2Fbadges_13-24.png)
 ![badges_1-12.png](src%2Fbadges_1-12.png)-->
 
- ## ⭐ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date)](https://star-history.com/#ishendrarai/ishendrarai&Date)
+
 
 ### 📊 Profile Insights  
 
