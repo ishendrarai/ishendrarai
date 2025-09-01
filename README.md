@@ -59,7 +59,7 @@
 
 <!--   green snake  -->
 ![GitHub Snake Light](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only)  
-<!-- ![GitHub Snake Dark](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only) -->
+![GitHub Snake Dark](https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only) 
 
 <!--   stats + languages -->
 <div align="center">
