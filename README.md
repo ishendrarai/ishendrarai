@@ -1,4 +1,3 @@
-
 <div id="#top"></div>
 <!--   Banner 
 ![](assets/Banner_up.svg)-->
@@ -22,7 +21,7 @@
 </a>
 
 <a href="https://www.python.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="80" width="80" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="75" width="75" >
 </a>
 
 <!--   my-ticker 
