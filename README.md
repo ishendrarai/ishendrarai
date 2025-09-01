@@ -4,7 +4,6 @@
   <img src="./assets/Banner_up.gif" alt="Banner_up" height="200" width="854">
 </p>
 
-
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/ishendrarai/ishendrarai"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -24,28 +23,53 @@
 </a>
 
 <a href="https://www.python.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="75" width="75" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="70" width="70" >
 </a>
-
-<!--   my-ticker 
 
 
 <!--   Name Display -->    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg) --> 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I+am+Ishendra+Rai;Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Interested+in+Solving+Real+Life+Problems;Always+learning+%26+Exploring+new+side+of+Life;Aspiring+Software+Developer+||+Passionate+Entrepreneur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I+am+Ishendra+Rai;Welcome+to+My+Profile!;Over+4+years+of+Programming+experience;Interested+in+Solving+Real+Life+Problems;Always+learning+%26+Exploring+New+sides+of+Life;Aspiring+Software+Developer+||+Passionate+Entrepreneur" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Profile -->
+<div align="center">
+  
+```mermaid
+graph TD
+  IR[Ishendra Rai 👨‍💻] --> OOPS[OOPS]
+  IR --> AIML[AI-ML 🤖]
+  IR --> PY[Python 🐍]
+  IR --> ENT[Entrepreneur 🚀]
+  IR --> JV[Java ☕]
+  IR --> DEV[Developer 💻]
+  IR --> DSA[DSA 📊]
 
-<!--Coding Platform 
-  <a href="https://leetcode.com/u/ishendrarai/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" align="left" width="80" height="80" />
-  </a> 
-  -->
+  classDef main fill:#050f2c,stroke:#FF5733,color:#ffffff,stroke-width:3px;
+  classDef py fill:#3498db,stroke:#2980b9,color:#ffffff;
+  classDef java fill:#e67e22,stroke:#d35400,color:#ffffff;
+  classDef entre fill:#f1c40f,stroke:#f39c12,color:#000000;
+  classDef dev fill:#e74c3c,stroke:#c0392b,color:#ffffff;
+  classDef ml fill:#9b59b6,stroke:#8e44ad,color:#ffffff;
+  classDef algo fill:#1abc9c,stroke:#16a085,color:#ffffff;
+  classDef theory fill:#2ecc71,stroke:#27ae60,color:#ffffff;
 
+  class IR main;
+  class OOPS theory;
+  class AIML ml;
+  class PY py;
+  class JV java;
+  class ENT entre;
+  class DEV dev;
+  class DSA algo;
+   ```
+</div>
 
+<div align="center">
+  
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -54,209 +78,12 @@
 | **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
 
-<!-- 📈 GitHub Activity Graph-->
-<details>
-  <summary><h1>📈 GitHub Activity Graph 📈</h1></summary>
-  <br/>
-
-  <!--  Github-Stats -->
-  <div align="center">
-
-  | 🔥 Contribution Streak 🔥 |
-  |---|
-  | <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" /> |
-  </div>
-
-  <!--   stats + languages -->
-  <div align="center">
-
-  | 📊 GitHub Stats 📊 | 💻 Top Languages 💻 |
-  |---|---|
-  | <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
-
-  </div>
-
-  <!--   green snake  -->
-  <div align="center">
-    <h3>🐍 Snake Graph Table 🐍</h3>
-    <!-- Light mode -->
-    <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only" 
-         alt="GitHub Snake Light" />
-    <!-- Dark mode -->
-    <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only" 
-         alt="GitHub Snake Dark" />
-  </div>
-
-  <!-- trophies -->
-  <div align="center">
-    <h3>🏆 GitHub Trophies 🏆</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </div>
-
-  <!-- activity graph -->
-  <div align="center">
-    <a href="https://github.com/ishendrarai">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishendrarai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="activity graph"/>
-    </a>
-  </div>
-
-  <!-- star history -->
-  <div align="center">
-    <h3>⭐ Star History ⭐</h3>
-    <a href="https://star-history.com/#ishendrarai/ishendrarai&Date">
-      <img src="https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date" alt="Star History Chart"/>
-    </a>
-  </div>
-
-</details>
-
-
-
-
-
-
-
-
-**📫 How to Reach Me:**
-<div align="center">
-
-| Twitter | LinkedIn | Gmail | WhatsApp |
-|---------|----------|-------|----------|
-| <a href="https://x.com/ishendrarai02" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="40" width="40"/></a> | <a href="https://linkedin.com/in/ishendrarai" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a> | <a href="mailto:ishurai.020805@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40"/></a> | <a href="https://api.whatsapp.com/send?phone=+919305859379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
-
 </div>
 
-<!--
-**📫 How to Reach Me:**
 <div align="center">
-| <a href="https://x.com/ishendrarai02" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="40" width="40"/></a> | <a href="https://linkedin.com/in/ishendrarai" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a> | <a href="mailto:ishurai.020804@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40"/></a> | <a href="https://api.whatsapp.com/send?phone=+919305859379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
-|---|---|---|---|
-</div>
--->
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-
-
-
-<!-- Jhansi - My Home-->
-  
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "name": "Jhansi"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [78.55, 25.46],
-            [78.59, 25.46],
-            [78.59, 25.44],
-            [78.55, 25.44],
-            [78.55, 25.46]
-          ]
-        ]
-      }
-    }
-  ]
-}
-
-```
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishendrarai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=ishendrarai&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-
-
-
-
-<!--![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)-->
-
-
-
-### 📊 Profile Insights  
-
-<p align="center">
-  <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@ishendrarai.github.readme" alt="Visitor Counter"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ishendrarai?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishendrarai"/>
-  </a>
-  <a href="https://github.com/ishendrarai?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/ishendrarai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
-
-**👀 Visitors (counting since September 1, 2025):**
-
-<p align="center">
-  <a href="https://info.flagcounter.com/qDAy">
-    <img src="https://s01.flagcounter.com/count2/qDAy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_65/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
-</p>
-
-
-<!-- Social icons section -->
-
-<!--iconChange-->
-### 📫 Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishendrarai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="mailto:ishurai.020805@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/ishendrarai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/ishendrarai" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/ishendrarai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/ishendrarai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-</p>
-
-
-
-
-
-
-
 <details>
-  <summary><h1>💻 My Favorite Tools and Technologies 💻</h1></summary>
+  <!-- 💻 Favorite Tools and Technologies 💻-->
+  <summary><h1>💻 Favorite Tools and Technologies 💻</h1></summary>
 
   <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
@@ -379,10 +206,232 @@ graph TD;
   </table>
   </div>
 </details>
+</div>
+
+<!-- 📈 GitHub Activity Graph-->
+<div align="center">
+<details>
+  <summary><h1>📈 GitHub Activity Graph 📈</h1></summary>
+  <br/>
+
+  <!--  Github-Stats -->
+  <div align="center">
+
+  | 🔥 Contribution Streak 🔥 |
+  |---|
+  | <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" /> |
+  </div>
+
+  <!--   stats + languages -->
+  <div align="center">
+
+  | 📊 GitHub Stats 📊 | 💻 Top Languages 💻 |
+  |---|---|
+  | <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
+
+  </div>
+
+  <!--   green snake  -->
+  <div align="center">
+    <h3>🐍 Snake Graph Table 🐍</h3>
+    <!-- Light mode -->
+    <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-light-mode-only" 
+         alt="GitHub Snake Light" />
+    <!-- Dark mode -->
+    <img src="https://raw.githubusercontent.com/ishendrarai/ishendrarai/output/snake.svg#gh-dark-mode-only" 
+         alt="GitHub Snake Dark" />
+  </div>
+
+  <!-- trophies -->
+  <div align="center">
+    <h3>🏆 GitHub Trophies 🏆</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </div>
+
+  <!-- activity graph -->
+  <div align="center">
+    <a href="https://github.com/ishendrarai">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishendrarai&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="activity graph"/>
+    </a>
+  </div>
+
+  <!-- star history -->
+  <div align="center">
+    <h3>⭐ Star History ⭐</h3>
+    <a href="https://star-history.com/#ishendrarai/ishendrarai&Date">
+      <img src="https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date" alt="Star History Chart"/>
+    </a>
+  </div>
+
+</details>
+</div>
+
+
+
+<!-- 📊 Profile Insights 📊-->
+<div align="center">
+<details>
+  <summary><h1>📊 Profile Insights 📊 </h1></summary>
+  <br/>
+
+  <p align="center">
+    <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
+  </p>
+
+  <p align="center">
+    <img src="https://count.getloli.com/get/@ishendrarai.github.readme" alt="Visitor Counter"/>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/ishendrarai?tab=repositories&sort=stargazers">
+      <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishendrarai"/>
+    </a>
+    <a href="https://github.com/ishendrarai?tab=followers">
+      <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/ishendrarai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+  </p>
+  
+  <p align="center">
+   <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
+  <a href="https://info.flagcounter.com/qDAy">
+    <img src="https://s01.flagcounter.com/count2/qDAy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_65/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+</p>
+<!-- Jhansi - My Home-->
+  
+ ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Jhansi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.55, 25.46],
+            [78.59, 25.46],
+            [78.59, 25.44],
+            [78.55, 25.44],
+            [78.55, 25.46]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+```
+</details>
+</div>
+
+
+<!-- Social icons section -->
+<div align="center">
+<details>
+  <summary><h1><strong>📫 Social Media📫 </strong></h1></summary>
+  <br/>
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="130">
+      <a href="https://www.linkedin.com/in/ishendrarai" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48"/>
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="mailto:ishurai.020805@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" height="48"/>
+        <br/>Email
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://api.whatsapp.com/send?phone=919305859379" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="48" height="48"/>
+        <br/>WhatsApp
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="130">
+      <a href="https://www.geeksforgeeks.org/user/ishendrarai/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" height="48"/>
+        <br/>GeeksforGeeks
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://github.com/ishendrarai" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48" height="48"/>
+        <br/>GitHub
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.hackerrank.com/profile/ishendrarai" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="48" height="48"/>
+        <br/>HackerRank
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="130">
+      <a href="https://www.codechef.com/users/ishendrarai" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width=""60 height="60"/>
+        <br/>CodeChef
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://leetcode.com/u/ishendrarai/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/>
+        <br/>LeetCode
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://codeforces.com/profile/ishurai.02" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" width="48" height="48"/>
+        <br/>Codeforces
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td align="center" width="130">
+      <a href="https://x.com/ishendrarai02" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="48" height="48"/>
+        <br/>Twitter (X)
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://discordapp.com/users/ishendrarai" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="48" height="48"/>
+        <br/>Discord
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://t.me/dalahousie" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="48" height="48"/>
+        <br/>Telegram
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+</details>
 
 
 
 <!-- GuestBook -->
+<div align="center">
 <h2>📖 Guestbook 📖 </h2>
 <p>
   If you liked my Profile, you can Star ⭐ this Repo
@@ -396,10 +445,6 @@ graph TD;
   <a href="https://github.com/ishendrarai/ishendrarai/discussions/new/choose">Discussions</a>!
 </p>
 
-
-
-
-
 <!--Thank you For Visiting-->
 <p align="center">
   <img src="./assets/Banner_down.gif" alt="Banner_up" height="200" width="854">
@@ -409,7 +454,7 @@ graph TD;
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ishendra-rai&color=blue" alt="Profile views"/>
 </p>
-
+</div>
 <!-- Your Back to Top button -->
 <p align="middle">
   <a href="#top">
@@ -481,3 +526,31 @@ width="30%">
 
 </details>
 -->
+
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishendrarai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=ishendrarai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
+
+<!--
+**📫 How to Reach Me:**
+<div align="center">
+| <a href="https://x.com/ishendrarai02" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="40" width="40"/></a> | <a href="https://linkedin.com/in/ishendrarai" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a> | <a href="mailto:ishurai.020804@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40"/></a> | <a href="https://api.whatsapp.com/send?phone=+919305859379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
+|---|---|---|---|
+</div>
+
+Coding Platform 
+  <a href="https://leetcode.com/u/ishendrarai/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" align="left" width="80" height="80" />
+  </a> 
+  
+-->
+
+<!--![badges_37-46.png](src%2Fbadges_37-46.png)
+![badges_25-36.png](src%2Fbadges_25-36.png)
+![badges_13-24.png](src%2Fbadges_13-24.png)
+![badges_1-12.png](src%2Fbadges_1-12.png)-->
