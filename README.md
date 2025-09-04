@@ -222,7 +222,7 @@ graph TD
 
   | 🔥 Contribution Streak 🔥 |
   |---|
-  | <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia" alt="GitHub Streak" /> |
+  | <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia&border_radius=5" /> |
   </div>
 
   <!--   stats + languages -->
@@ -276,7 +276,11 @@ graph TD
 <details>
   <summary><h1>📊 Profile Insights 📊 </h1></summary>
   <br/>
-
+  
+  <p align="center">
+     <img src="https://leetcard.jacoblin.cool/ishendrarai?theme=dark&font=Laila&ext=heatmap" alt="LeetCode Stats"/>
+  </p>
+  
   <p align="center">
     <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
   </p>
@@ -303,6 +307,7 @@ graph TD
 <!-- Jhansi - My Home-->
   
  ```geojson
+
 {
   "type": "FeatureCollection",
   "features": [
@@ -327,6 +332,7 @@ graph TD
     }
   ]
 }
+
 ```
 </details>
 </div>
