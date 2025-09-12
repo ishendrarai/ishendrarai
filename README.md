@@ -22,6 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80" width="80">
 </a>
 
+
 <a href="https://www.python.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="70" width="70" >
 </a>
@@ -34,6 +35,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I+am+Ishendra+Rai;Welcome+to+My+Profile!;Over+4+years+of+Programming+experience;Interested+in+Solving+Real+Life+Problems;Always+learning+%26+Exploring+New+sides+of+Life;Aspiring+Software+Developer+||+Passionate+Entrepreneur" alt="Typing SVG" />
   </a>
 </p>
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/ishendrarai/">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" >
+</a>
+</div>
+
 
 <!-- Profile -->
 <div align="center">
