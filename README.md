@@ -7,7 +7,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/ishendrarai/ishendrarai"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/openjdk/jdk"><img src="https://img.shields.io/badge/Java-24-ED8B00.svg?logo=openjdk&logoColor=white" alt="Java 25"></a>
+    <a href="https://github.com/openjdk/jdk"><img src="https://img.shields.io/badge/Java-25-ED8B00.svg?logo=openjdk&logoColor=white" alt="Java 25"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/ishendrarai/ishendrarai/graphs/contributors"><img src="https://img.shields.io/github/contributors/ishendrarai/ishendrarai?color=blue"></a>
     <a href="https://github.com/ishendrarai/ishendrarai/stargazers"><img src="https://img.shields.io/github/stars/ishendrarai/ishendrarai.svg?logo=github"></a>
