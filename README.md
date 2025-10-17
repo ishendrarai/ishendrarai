@@ -76,7 +76,7 @@ graph TD
    ```
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 | 🏷️ **Category**               | 🚀 **Technologies & Tools** |
 |-------------------------------|------------------------------|
@@ -89,7 +89,27 @@ graph TD
 | **Web / Software Principles** | ![Agile](https://img.shields.io/badge/Agile-008272.svg?&logo=atlassian&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733.svg) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF.svg) ![Testing](https://img.shields.io/badge/Testing-6F42C1.svg) |
 
 
+</div> -->
+
+<div align="center">
+
+## 🧰 **Tech Stack Overview**
+
+| 🏷️ **Category** | 🚀 **Technologies & Tools** |
+|------------------|-----------------------------|
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Domain Knowledge** | ![AI](https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?logo=openai&logoColor=white) ![IoT](https://img.shields.io/badge/Internet%20of%20Things-FF9900?logo=arduino&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer%20Science-FAB040?logo=gradle&logoColor=white) ![Software Dev](https://img.shields.io/badge/Software%20Development-008C45?logo=github&logoColor=white) |
+| **CI/CD & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5C2D91?logo=cursor&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-00A98F?logo=vercel&logoColor=white) |
+| **Principles & Practices** | ![Agile](https://img.shields.io/badge/Agile-2496ED?logo=jira&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733?logo=oracle&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF?logo=diagramsdotnet&logoColor=white) ![Testing](https://img.shields.io/badge/Testing-6F42C1?logo=pytest&logoColor=white) |
+
 </div>
+
+
+
+
+
 
 <div align="center">
 <details>
