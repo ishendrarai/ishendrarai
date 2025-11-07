@@ -250,7 +250,7 @@ graph TD
 
   | 🔥 Contribution Streak 🔥 |
   |---|
-  | <img src="https://github-readme-streak-stats.herokuapp.com?user=ishendrarai&theme=algolia&border_radius=5" /> |
+  | <img src="https://git-hub-streak-stats.vercel.app?user=ishendrarai&theme=algolia&hide_border=true&border_radius=5" alt="GitHub Streak" /> |
   </div>
 
   <!--   stats + languages -->
