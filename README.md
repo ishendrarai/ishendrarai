@@ -91,6 +91,7 @@ graph TD
 
 </div> -->
 
+
 <div align="center">
 
 ## 🧰 **Tech Stack Overview**
@@ -103,8 +104,10 @@ graph TD
 | **Domain Knowledge** | ![AI](https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?logo=openai&logoColor=white) ![IoT](https://img.shields.io/badge/Internet%20of%20Things-FF9900?logo=arduino&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer%20Science-FAB040?logo=gradle&logoColor=white) ![Software Dev](https://img.shields.io/badge/Software%20Development-008C45?logo=github&logoColor=white) |
 | **CI/CD & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5C2D91?logo=cursor&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-00A98F?logo=vercel&logoColor=white) |
 | **Principles & Practices** | ![Agile](https://img.shields.io/badge/Agile-2496ED?logo=jira&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733?logo=oracle&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF?logo=diagramsdotnet&logoColor=white) ![Testing](https://img.shields.io/badge/Testing-6F42C1?logo=pytest&logoColor=white) |
+| **Productivity & Note-Taking** | ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) |
 
 </div>
+
 
 
 
