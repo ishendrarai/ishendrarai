@@ -491,7 +491,7 @@ graph TD
 
 <!-- Profile Views--> 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ishendra-rai&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ishendrarai&color=blue" alt="Profile views"/>
 </p>
 </div>
 <!-- Your Back to Top button -->
