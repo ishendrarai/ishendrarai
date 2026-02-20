@@ -248,22 +248,22 @@ graph TD
   <summary><h1>📈 GitHub Activity Graph 📈</h1></summary>
   <br/>
 
-  <!--  Github-Stats -->
-  <div align="center">
+ <!--  Github-Stats -->
+<div align="center">
 
-  | 🔥 Contribution Streak 🔥 |
-  |---|
-  | <img src="https://git-hub-streak-stats.vercel.app?user=ishendrarai&theme=algolia&hide_border=true&border_radius=5" alt="GitHub Streak" /> |
-  </div>
+| 🔥 Contribution Streak 🔥 |
+|---|
+| <img src="https://streak-stats.demolab.com?user=ishendrarai&theme=algolia&hide_border=true&border_radius=5" height="180px"/> |
 
-  <!--   stats + languages -->
-  <div align="center">
+</div>
 
-  | 📊 GitHub Stats 📊 | 💻 Top Languages 💻 |
-  |---|---|
-  | <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
+<div align="center">
 
-  </div>
+| 📊 GitHub Stats 📊 | 💻 Top Languages 💻 |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&theme=algolia" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&layout=compact&theme=algolia" height="180px"/> |
+
+</div>
 
   <!--   green snake  -->
   <div align="center">
