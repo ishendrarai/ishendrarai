@@ -389,10 +389,16 @@ graph TD
         <br/>Email
       </a>
     </td>
-    <td align="center" width="130">
+    <!-- <td align="center" width="130">
       <a href="https://api.whatsapp.com/send?phone=919305859379" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="48" height="48"/>
         <br/>WhatsApp
+      </a>
+    </td> -->
+    <td align="center" width="130">
+      <a href="https://instagram.com/dalahousie" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" height="48"/>
+        <br/>Instagram
       </a>
     </td>
   </tr>
