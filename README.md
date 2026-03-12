@@ -5,15 +5,15 @@
 
 <!-- GITA_SHLOKA_START -->
 
-## 🕉️ Bhagavad Gita Shloka of the Day
+## 🕉 Bhagavad Gita Shloka of the Day
 
-📖 Chapter: 14  
-🔢 Verse: 12
+📖 Chapter: -  
+🔢 Verse: -
 
-Unable to fetch shloka today 🙏
+Unable to fetch Bhagavad Gita verse today 🙏
 
 💡 Meaning:
-Please check again tomorrow.
+API temporarily unavailable.
 
 <!-- GITA_SHLOKA_END -->
 </div>
