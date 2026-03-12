@@ -3,8 +3,6 @@
 <div align="center">
 <!-- GITA_START -->
 ## 🕉️ Bhagavad Gita — Verse of the Day
-
-> *Updated daily via GitHub Actions*  
 > 📅 **March 12, 2026**
 
 ---
