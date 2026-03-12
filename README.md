@@ -37,9 +37,9 @@
 </p>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/ishendrarai/">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" >
-</a>
+  <a href="https://www.linkedin.com/in/ishendrarai/">
+    <img src="assets/Animation.gif"  alt="Profile Animation">
+  </a>
 </div>
 
 
