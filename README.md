@@ -1,4 +1,12 @@
 <div id="#top"></div>
+
+<div align="center">
+   🕉️ Bhagavad Gita Wisdom 🕉️
+
+<!-- GITA_SHLOKA_START -->
+Loading daily Bhagavad Gita wisdom...
+<!-- GITA_SHLOKA_END -->
+</div>
 <!--   Banner -->
 <p align="center">
   <img src="./assets/Banner_up.gif" alt="Banner_up" height="200" width="854">
@@ -15,8 +23,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ishendrarai" alt="visitors"/>   
 </p>
 
-<!-- Header --> 
-![](./src/header_.png)
+<!-- Header 
+![](./src/header_.png) -->
 <!--   Python & Java Logo with Link  -->
 <a href="https://www.java.com/">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80" width="80">
