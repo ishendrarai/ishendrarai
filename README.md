@@ -1,38 +1,4 @@
 <div id="#top"></div>
-
-<div align="center">
-<!-- GITA_START -->
-## 🕉️ Bhagavad Gita — Verse of the Day
-> 📅 **March 12, 2026**
-
----
-
-### 📖 Chapter 1, Verse 7
-
-**Sanskrit (Devanāgarī)**
-
-```
-अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |
-नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||
-```
-
-**Transliteration**
-
-*asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .
-nāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||1-7||*
-
-**English Meaning**
-
-> 1.7. "Know also, O best among the twice-born! the names of those
-who are the most distinguished amongst ourselves, the leaders of my army;
-these I name to thee for thy information.
-
----
-
-<sub>Verse fetched from the [Vedic Scriptures API](https://vedicscriptures.github.io) · Automated with ❤️ using Python & GitHub Actions</sub>
-
-<!-- GITA_END -->
-</div>
 <!--   Banner -->
 <p align="center">
   <img src="./assets/Banner_up.gif" alt="Banner_up" height="200" width="854">
