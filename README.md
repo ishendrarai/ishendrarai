@@ -17,22 +17,25 @@
 
 <!-- Header 
 ![](./src/header_.png) -->
-<!--   Python & Java Logo with Link  -->
+<!--   Python & Java Logo with Link  
 <a href="https://www.java.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80">
 </a>
-
 
 <a href="https://www.python.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="70" width="70" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="70">
 </a>
-
+-->
 
 <!--   Name Display -->    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg) --> 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I+am+Ishendra+Rai;Welcome+to+My+Profile!;Over+4+years+of+Programming+experience;Interested+in+Solving+Real+Life+Problems;Always+learning+%26+Exploring+New+sides+of+Life;Aspiring+Software+Developer+||+Passionate+Entrepreneur" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I'm+Ishendra+Rai;4%2B+years+of+programming+experience;Passionate+about+solving+real-world+problems;Always+learning+and+exploring+new+technologies;Aspiring+Software+Developer+|+Passionate+Entrepreneur"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
