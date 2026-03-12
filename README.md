@@ -1,4 +1,12 @@
 <div id="#top"></div>
+
+<div align="center">
+  # 🕉️ Bhagavad Gita Wisdom
+
+<!-- GITA_SHLOKA_START -->
+Loading daily Bhagavad Gita wisdom...
+<!-- GITA_SHLOKA_END -->
+</div>
 <!--   Banner -->
 <p align="center">
   <img src="./assets/Banner_up.gif" alt="Banner_up" height="200" width="854">
