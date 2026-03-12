@@ -15,8 +15,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ishendrarai" alt="visitors"/>   
 </p>
 
-<!-- Header --> 
-![](./src/header_.png)
+<!-- Header 
+![](./src/header_.png) -->
 <!--   Python & Java Logo with Link  -->
 <a href="https://www.java.com/">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80" width="80">
