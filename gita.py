@@ -1,28 +1,25 @@
 import requests
-import random
 
-chapter = random.randint(1,18)
-verse = random.randint(1,20)
-
-url = f"https://bhagavad-gita3.p.rapidapi.com/v2/chapters/{chapter}/verses/{verse}/"
-
-headers = {
-"X-RapidAPI-Key":"demo",
-"X-RapidAPI-Host":"bhagavad-gita3.p.rapidapi.com"
-}
+url = "https://api.bhagavadgita.io/v2/get-daily-verse/"
 
 try:
-    response = requests.get(url,headers=headers)
+    response = requests.get(url, timeout=10)
     data = response.json()
 
+    chapter = data["chapter_number"]
+    verse = data["verse_number"]
     shloka = data["text"]
+
+    # first translation
     meaning = data["translations"][0]["description"]
 
-except:
-    shloka = "Unable to fetch shloka today 🙏"
-    meaning = "Please check again tomorrow."
+except Exception as e:
+    chapter = "-"
+    verse = "-"
+    shloka = "Unable to fetch Bhagavad Gita verse today 🙏"
+    meaning = "API temporarily unavailable."
 
-text=f"""
+text = f"""
 ## 🕉 Bhagavad Gita Shloka of the Day
 
 📖 Chapter: {chapter}  
