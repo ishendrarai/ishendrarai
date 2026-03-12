@@ -1,21 +1,37 @@
 <div id="#top"></div>
 
 <div align="center">
-   🕉️ Bhagavad Gita Wisdom 🕉️
+<!-- GITA_START -->
+## 🕉️ Bhagavad Gita — Verse of the Day
 
-<!-- GITA_SHLOKA_START -->
+> *Updated daily via GitHub Actions*  
+> 📅 **March 12, 2026**
 
-## 🕉 Bhagavad Gita Shloka of the Day
+---
 
-📖 Chapter: -  
-🔢 Verse: -
+### 📖 Chapter 2, Verse 47
 
-Unable to fetch Bhagavad Gita verse today 🙏
+**Sanskrit (Devanāgarī)**
 
-💡 Meaning:
-API temporarily unavailable.
+```
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥
+```
 
-<!-- GITA_SHLOKA_END -->
+**Transliteration**
+
+*karmaṇy-evādhikāras te mā phaleṣhu kadāchana
+mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi*
+
+**English Meaning**
+
+> You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.
+
+---
+
+<sub>Verse fetched from the [Vedic Scriptures API](https://vedicscriptures.github.io) · Automated with ❤️ using Python & GitHub Actions</sub>
+
+<!-- GITA_END -->
 </div>
 <!--   Banner -->
 <p align="center">
