@@ -92,25 +92,59 @@ graph TD
 </div> -->
 
 <!-- 📈 GitHub Activity Graph-->
+
 <div align="center">
 <details>
   <summary><h1>📈 GitHub Activity Graph 📈</h1></summary>
   <br/>
 
- <!--  Github-Stats -->
+ <!-- Contribution Streak -->
+
 <div align="center">
 
-| 🔥 Contribution Streak 🔥 |
-|---|
+| 🔥 Contribution Streak 🔥                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://streak-stats.demolab.com?user=ishendrarai&theme=algolia&hide_border=true&border_radius=5" height="180px"/> |
 
 </div>
 
+<!-- GitHub Stats -->
+
 <div align="center">
 
-| 📊 GitHub Stats 📊 | 💻 Top Languages 💻 |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&theme=algolia" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&layout=compact&theme=algolia" height="180px"/> |
+| 📊 GitHub Stats 📊                                                                                                                                                                     | 💻 Top Languages 💻                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&layout=compact&theme=algolia&hide_border=true" height="180px"/> |
+
+</div>
+
+<!-- Language Statistics -->
+
+<div align="center">
+
+| 📦 Repos Per Language 📦                                                                                                                    | ⚡ Most Commit Language ⚡                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishendrarai&theme=algolia" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishendrarai&theme=algolia" height="180px"/> |
+
+</div>
+
+<!-- Additional Stats -->
+
+<div align="center">
+
+| 📈 GitHub Stats Overview 📈                                                                                                    | ⏰ Productive Time ⏰                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishendrarai&theme=algolia" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishendrarai&theme=algolia&utcOffset=5" height="180px"/> |
+
+</div>
+
+<!-- Profile Details -->
+
+<div align="center">
+
+| 📜 Profile Details 📜                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishendrarai&theme=algolia" /> |
 
 </div>
 
