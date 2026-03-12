@@ -312,7 +312,7 @@ graph TD
   <tr>
     <td align="center" width="130">
       <a href="https://www.codechef.com/users/ishendrarai" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width=""60 height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="60" height="60"/>
         <br/>CodeChef
       </a>
     </td>
