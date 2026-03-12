@@ -1,0 +1,53 @@
+name: 🕉️ Daily Bhagavad Gita Update
+
+on:
+  schedule:
+    # Runs every day at 00:30 UTC
+    - cron: "30 0 * * *"
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to push the README commit
+
+jobs:
+  update-gita-verse:
+    name: Fetch verse & update README
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout your profile repo ──────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Set up Python ────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ── 3. Install dependencies ─────────────────────────────────────────
+      - name: Install Python dependencies
+        run: pip install requests
+
+      # ── 4. Run the update script ─────────────────────────────────────────
+      - name: Update README with today's Gita verse
+        run: python update_readme.py
+
+      # ── 5. Commit & push if README changed ───────────────────────────────
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+
+          git add README.md
+
+          # Only commit when there is actually a diff
+          if git diff --cached --quiet; then
+            echo "No changes to commit — README is already up to date."
+          else
+            TODAY=$(date -u +"%Y-%m-%d")
+            git commit -m "🕉️ Gita verse of the day — $TODAY [skip ci]"
+            git push
+          fi
