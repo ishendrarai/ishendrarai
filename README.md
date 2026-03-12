@@ -4,7 +4,17 @@
    🕉️ Bhagavad Gita Wisdom 🕉️
 
 <!-- GITA_SHLOKA_START -->
-Loading daily Bhagavad Gita wisdom...
+
+## 🕉️ Bhagavad Gita Shloka of the Day
+
+📖 Chapter: 14  
+🔢 Verse: 12
+
+Unable to fetch shloka today 🙏
+
+💡 Meaning:
+Please check again tomorrow.
+
 <!-- GITA_SHLOKA_END -->
 </div>
 <!--   Banner -->
