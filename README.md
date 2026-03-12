@@ -3,29 +3,29 @@
 <div align="center">
 <!-- GITA_START -->
 ## 🕉️ Bhagavad Gita — Verse of the Day
-
-> *Updated daily via GitHub Actions*  
 > 📅 **March 12, 2026**
 
 ---
 
-### 📖 Chapter 2, Verse 47
+### 📖 Chapter 1, Verse 7
 
 **Sanskrit (Devanāgarī)**
 
 ```
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥
+अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |
+नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||
 ```
 
 **Transliteration**
 
-*karmaṇy-evādhikāras te mā phaleṣhu kadāchana
-mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi*
+*asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .
+nāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||1-7||*
 
 **English Meaning**
 
-> You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.
+> 1.7. "Know also, O best among the twice-born! the names of those
+who are the most distinguished amongst ourselves, the leaders of my army;
+these I name to thee for thy information.
 
 ---
 
