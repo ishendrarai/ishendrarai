@@ -91,179 +91,62 @@ graph TD
 
 </div> -->
 
-
-<div align="center">
-
-## 🧰 **Tech Stack Overview**
-
-| 🏷️ **Category** | 🚀 **Technologies & Tools** |
-|------------------|-----------------------------|
-| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Domain Knowledge** | ![AI](https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?logo=openai&logoColor=white) ![IoT](https://img.shields.io/badge/Internet%20of%20Things-FF9900?logo=arduino&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer%20Science-FAB040?logo=gradle&logoColor=white) ![Software Dev](https://img.shields.io/badge/Software%20Development-008C45?logo=github&logoColor=white) |
-| **CI/CD & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5C2D91?logo=cursor&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-00A98F?logo=vercel&logoColor=white) |
-| **Principles & Practices** | ![Agile](https://img.shields.io/badge/Agile-2496ED?logo=jira&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733?logo=oracle&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF?logo=diagramsdotnet&logoColor=white) ![Testing](https://img.shields.io/badge/Testing-6F42C1?logo=pytest&logoColor=white) |
-| **Productivity & Note-Taking** | ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) |
-
-</div>
-
-
-
-
-
-
-
-<div align="center">
-<details>
-  <!-- 💻 Favorite Tools and Technologies 💻-->
-  <summary><h1>💻 Favorite Tools and Technologies 💻</h1></summary>
-
-  <div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>Python
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-        <br>Webpack
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-        <br>C#
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-        <br>Github
-      </td>
-      <td align="center" width="96"> 
-          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center"  width="96">
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
-      </td>
-      <td align="center"  width="96">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-        <br>Kubernetes
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-        <br>Nodejs
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-        <br>Express.js
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-        <br>VsCode
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-        <br>Jenkins
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
-        <br>Ansible
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-        <br>Netlify
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
-        <br>Heroku
-      </td>
-    </tr>
-  </table>
-  </div>
-</details>
-</div>
-
 <!-- 📈 GitHub Activity Graph-->
+
 <div align="center">
 <details>
   <summary><h1>📈 GitHub Activity Graph 📈</h1></summary>
   <br/>
 
-  <!--  Github-Stats -->
-  <div align="center">
+ <!-- Contribution Streak -->
 
-  | 🔥 Contribution Streak 🔥 |
-  |---|
-  | <img src="https://git-hub-streak-stats.vercel.app?user=ishendrarai&theme=algolia&hide_border=true&border_radius=5" alt="GitHub Streak" /> |
-  </div>
+<div align="center">
 
-  <!--   stats + languages -->
-  <div align="center">
+| 🔥 Contribution Streak 🔥                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://streak-stats.demolab.com?user=ishendrarai&theme=algolia&hide_border=true&border_radius=5" height="180px"/> |
 
-  | 📊 GitHub Stats 📊 | 💻 Top Languages 💻 |
-  |---|---|
-  | <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&theme=algolia&include_all_commits=true" alt="Ishendra's GitHub stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=algolia&layout=compact" alt="Top Langs" height="180px"/> |
+</div>
 
-  </div>
+<!-- GitHub Stats -->
+
+<div align="center">
+
+| 📊 GitHub Stats 📊                                                                                                                                                                     | 💻 Top Languages 💻                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=ishendrarai&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&layout=compact&theme=algolia&hide_border=true" height="180px"/> |
+
+</div>
+
+<!-- Language Statistics -->
+
+<div align="center">
+
+| 📦 Repos Per Language 📦                                                                                                                    | ⚡ Most Commit Language ⚡                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishendrarai&theme=algolia" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishendrarai&theme=algolia" height="180px"/> |
+
+</div>
+
+<!-- Additional Stats -->
+
+<div align="center">
+
+| 📈 GitHub Stats Overview 📈                                                                                                    | ⏰ Productive Time ⏰                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishendrarai&theme=algolia" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishendrarai&theme=algolia&utcOffset=5" height="180px"/> |
+
+</div>
+
+<!-- Profile Details -->
+
+<div align="center">
+
+| 📜 Profile Details 📜                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishendrarai&theme=algolia" /> |
+
+</div>
 
   <!--   green snake  -->
   <div align="center">
@@ -389,10 +272,16 @@ graph TD
         <br/>Email
       </a>
     </td>
-    <td align="center" width="130">
+    <!-- <td align="center" width="130">
       <a href="https://api.whatsapp.com/send?phone=919305859379" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="48" height="48"/>
         <br/>WhatsApp
+      </a>
+    </td> -->
+    <td align="center" width="130">
+      <a href="https://instagram.com/dalahousie" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" height="48"/>
+        <br/>Instagram
       </a>
     </td>
   </tr>
@@ -491,7 +380,7 @@ graph TD
 
 <!-- Profile Views--> 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ishendra-rai&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ishendrarai&color=blue" alt="Profile views"/>
 </p>
 </div>
 <!-- Your Back to Top button -->
