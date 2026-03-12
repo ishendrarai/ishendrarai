@@ -1,7 +1,6 @@
 import requests
 import random
 
-# Bhagavad Gita chapters with verse count
 chapters = {
 1:47,2:72,3:43,4:42,5:29,6:47,
 7:30,8:28,9:34,10:42,11:55,12:20,
@@ -13,11 +12,16 @@ verse = random.randint(1, chapters[chapter])
 
 url = f"https://bhagavadgitaapi.in/slok/{chapter}/{verse}"
 
-response = requests.get(url)
-data = response.json()
+try:
+    response = requests.get(url)
+    data = response.json()
 
-shloka = data["slok"]
-meaning = data["tej"]["ht"]
+    shloka = data.get("slok","Shloka unavailable")
+    meaning = data.get("tej",{}).get("ht","Meaning unavailable")
+
+except:
+    shloka = "Unable to fetch shloka today 🙏"
+    meaning = "Please check again tomorrow."
 
 text = f"""
 ## 🕉️ Bhagavad Gita Shloka of the Day
@@ -31,5 +35,5 @@ text = f"""
 {meaning}
 """
 
-with open("gita.md", "w", encoding="utf-8") as f:
+with open("gita.md","w",encoding="utf-8") as f:
     f.write(text)
