@@ -1,7 +1,7 @@
 <div id="#top"></div>
 
 <div align="center">
-  # 🕉️ Bhagavad Gita Wisdom
+   🕉️ Bhagavad Gita Wisdom 🕉️
 
 <!-- GITA_SHLOKA_START -->
 Loading daily Bhagavad Gita wisdom...
