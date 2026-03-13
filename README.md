@@ -197,10 +197,18 @@ graph TD
   <p align="center">
      <img src="https://leetcard.jacoblin.cool/ishendrarai?theme=dark&font=Laila&ext=heatmap" alt="LeetCode Stats"/>
   </p>
-  
-  <p align="center">
+
+<!-- Music Video-->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vrwiN8dPN6c">
+    <img src="https://img.youtube.com/vi/vrwiN8dPN6c/maxresdefault.jpg" width="700" alt="Music Video">
+  </a>
+  <br><br>
+  <a href="https://www.youtube.com/watch?v=vrwiN8dPN6c"><b>▶ Watch My Music Video</b></a>
+</p>
+  <!--<p align="center">
     <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
-  </p>
+  </p>-->
 
   <p align="center">
     <img src="https://count.getloli.com/get/@ishendrarai.github.readme" alt="Visitor Counter"/>
