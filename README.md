@@ -1,5 +1,13 @@
 <div id="#top"></div>
 <!--   Banner -->
+<div align="center">
+
+> **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।**  
+> **मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥**
+
+**Bhagavad Gita 2.47**
+
+</div>
 <p align="center">
   <img src="./assets/Banner_up.gif" alt="Banner_up" height="200" width="854">
 </p>
