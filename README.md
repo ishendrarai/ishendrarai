@@ -45,15 +45,15 @@
 <div align="center">
 <h1>🧑‍💻 About Me 🧑‍💻</h1>
 
-<p align="center">
+<p align="left">
 
-• 🎓 Computer Science student passionate about building <b>scalable and impactful software</b><br>
-• 🚀 Currently developing projects like <b>SwiftChat</b>, <b>Music Streaming App</b>, and <b>Ambienz</b><br>
-• 💡 Interested in <b>Backend Development</b>, <b>System Design</b>, and <b>AI-powered applications</b><br>
-• 🧠 Enjoy solving algorithmic problems and practicing <b>competitive programming</b><br>
-• 🛠 Experienced with <b>Python, Java, JavaScript, Node.js, React</b>, and modern web technologies<br>
-• 📚 Always learning new technologies and improving <b>problem-solving skills</b><br>
-• 🎯 Goal: Become a <b>high-impact software developer and technology entrepreneur</b>
+• 🎓 Computer Science student focused on building scalable applications and intelligent software systems<br>
+• 🚀 Building projects such as <b>SwiftChat</b>, <b>CodeOne</b>, and <b>Ambienz</b><br>
+• 💡 Interested in <b>Software Engineering</b>, <b>System Design</b>, and <b>AI / Generative AI applications</b><br>
+• 🧠 Actively practicing <b>competitive programming</b> and algorithmic problem solving<br>
+• 🛠 Experienced with <b>Python, Java, JavaScript, Node.js, React</b>, and modern development tools<br>
+• 📚 Constantly exploring new technologies and improving <b>system design thinking</b><br>
+• 🎯 Goal: Build impactful products and become a <b>technology entrepreneur</b>
 
 
 </p>
