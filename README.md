@@ -43,22 +43,23 @@
 </div>
 
 <div align="center">
-
 <h1>🧑‍💻 About Me 🧑‍💻</h1>
 
 <p align="center">
 
-• 🎓 Computer Science student passionate about building <b>scalable and impactful software</b><br><br>
-• 🚀 Currently developing projects like <b>SwiftChat</b>, <b>Music Streaming App</b>, and <b>Ambienz</b><br><br>
-• 💡 Interested in <b>Backend Development</b>, <b>System Design</b>, and <b>AI-powered applications</b><br><br>
-• 🧠 Enjoy solving algorithmic problems and practicing <b>competitive programming</b><br><br>
-• 🛠 Experienced with <b>Python, Java, JavaScript, Node.js, React</b>, and modern web technologies<br><br>
-• 📚 Always learning new technologies and improving <b>problem-solving skills</b><br><br>
+• 🎓 Computer Science student passionate about building <b>scalable and impactful software</b><br>
+• 🚀 Currently developing projects like <b>SwiftChat</b>, <b>Music Streaming App</b>, and <b>Ambienz</b><br>
+• 💡 Interested in <b>Backend Development</b>, <b>System Design</b>, and <b>AI-powered applications</b><br>
+• 🧠 Enjoy solving algorithmic problems and practicing <b>competitive programming</b><br>
+• 🛠 Experienced with <b>Python, Java, JavaScript, Node.js, React</b>, and modern web technologies<br>
+• 📚 Always learning new technologies and improving <b>problem-solving skills</b><br>
 • 🎯 Goal: Become a <b>high-impact software developer and technology entrepreneur</b>
+
 
 </p>
 
 </div>
+<hr>
 <div align="center">
 
 <details>
