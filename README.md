@@ -1,13 +1,5 @@
 <div id="#top"></div>
 <!--   Banner -->
-<div align="center">
-
-> **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।**  
-> **मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥**
-
-**Bhagavad Gita 2.47**
-
-</div>
 <p align="center">
   <img src="./assets/Banner_up.gif" alt="Banner_up" height="200" width="854">
 </p>
@@ -23,9 +15,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ishendrarai" alt="visitors"/>   
 </p>
 
-<!-- Header 
-![](./src/header_.png) -->
-<!--   Python & Java Logo with Link  
+<!-- Python & Java Logo with Link  -->
 <a href="https://www.java.com/">
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80">
 </a>
@@ -33,10 +23,9 @@
 <a href="https://www.python.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="70">
 </a>
--->
+
 
 <!--   Name Display -->    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg) --> 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -54,53 +43,20 @@
 </div>
 
 
-<!-- Profile -->
-<div align="center">
-  
-```mermaid
-graph TD
-  IR[Ishendra Rai 👨‍💻] --> OOPS[OOPS]
-  IR --> AIML[AI-ML 🤖]
-  IR --> PY[Python 🐍]
-  IR --> ENT[Entrepreneur 🚀]
-  IR --> JV[Java ☕]
-  IR --> DEV[Developer 💻]
-  IR --> DSA[DSA 📊]
 
-  classDef main fill:#050f2c,stroke:#FF5733,color:#ffffff,stroke-width:3px;
-  classDef py fill:#3498db,stroke:#2980b9,color:#ffffff;
-  classDef java fill:#e67e22,stroke:#d35400,color:#ffffff;
-  classDef entre fill:#f1c40f,stroke:#f39c12,color:#000000;
-  classDef dev fill:#e74c3c,stroke:#c0392b,color:#ffffff;
-  classDef ml fill:#9b59b6,stroke:#8e44ad,color:#ffffff;
-  classDef algo fill:#1abc9c,stroke:#16a085,color:#ffffff;
-  classDef theory fill:#2ecc71,stroke:#27ae60,color:#ffffff;
 
-  class IR main;
-  class OOPS theory;
-  class AIML ml;
-  class PY py;
-  class JV java;
-  class ENT entre;
-  class DEV dev;
-  class DSA algo;
-   ```
-</div>
-
-<!-- <div align="center">
+ <div align="center">
   
 | 🏷️ **Category**               | 🚀 **Technologies & Tools** |
 |-------------------------------|------------------------------|
-| **Languages / Frameworks**    | ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC.svg?&logo=c&logoColor=00599C) ![C++](https://img.shields.io/badge/C++-00599C.svg?&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?&logo=gnubash&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&logo=flutter&logoColor=white) |
-| **Web Development**           | ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A.svg?&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20.svg?&logo=django&logoColor=white) |
-| **Backend / Databases**       | ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000.svg?&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&logo=sqlite&logoColor=white) |
-| **ML / DL Frameworks**        | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=jupyter&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&logo=opencv&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E.svg?&logo=openai&logoColor=white) |
-| **Domain Knowledge**          | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-01D277.svg) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4C8CBF.svg) ![IoT](https://img.shields.io/badge/IoT-FF9900.svg?&logo=internetofthings&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer%20Science-FAB040.svg) ![Software Development](https://img.shields.io/badge/Software%20Development-FD6C35.svg) |
-| **CI / CD & Tooling**         | ![Git](https://img.shields.io/badge/Git-F05032.svg?&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?&logo=intellijidea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-5C2D91.svg) ![Trae](https://img.shields.io/badge/Trae-00A98F.svg) |
-| **Web / Software Principles** | ![Agile](https://img.shields.io/badge/Agile-008272.svg?&logo=atlassian&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733.svg) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF.svg) ![Testing](https://img.shields.io/badge/Testing-6F42C1.svg) |
+| **Languages / Frameworks**    | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) |
+| **Web Development**           | ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB) |
+| **Backend / Databases**       | ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white) |
+| **Domain Knowledge**          | ![Computer Science](https://img.shields.io/badge/Computer%20Science-FAB040.svg?logo=academia&logoColor=white) ![Software Development](https://img.shields.io/badge/Software%20Development-FD6C35.svg?logo=code&logoColor=white) |
+| **CI / CD & Tooling**         | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellijidea&logoColor=white) |
+| **Web / Software Principles** | ![Agile](https://img.shields.io/badge/Agile-008272.svg?logo=atlassian&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733.svg?logo=java&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF.svg?logo=diagram&logoColor=white) |
 
-
-</div> -->
+</div> 
 
 <!-- 📈 GitHub Activity Graph-->
 
@@ -418,86 +374,4 @@ graph TD
 
 
 
-  <!--Coding Platform tropy
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-<p align="center"> 
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-</p>
-<img src="/github-metrics.svg" alt="Metrics" width="100%"> 
 
-<!-- Footer 
-<div align="center">
-  <img alt="footer" width="100%" src="https://github.com/ishendrarai/ishendrarai/blob/main/assets/footer.png">
-</div> -->
-
-
-
-<!-- 🛠️ Languages and Tools -->
-<!--
-<details>
-  <summary align="left">
-    <h3>🛠️ Languages & Tools</h3>
-  </summary>
-
-  <br/>
-
-  <table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/><br/>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/><br/>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/><br/>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/><br/>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70"/><br/>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70"/><br/>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="70" height="70"/><br/>Tailwind</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70"/><br/>Bootstrap</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70"/><br/>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70"/><br/>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/><br/>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/><br/>GitHub</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70"/><br/>VS Code</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/><br/>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/><br/>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/><br/>CSS3</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70"/><br/>Express</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70"/><br/>Postman</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70"/><br/>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70"/><br/>NPM</td>
-  </tr>
-  </table>
-
-</details>
--->
-
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishendrarai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishendrarai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=ishendrarai&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-
-<!--
-**📫 How to Reach Me:**
-<div align="center">
-| <a href="https://x.com/ishendrarai02" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="40" width="40"/></a> | <a href="https://linkedin.com/in/ishendrarai" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a> | <a href="mailto:ishurai.020804@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40"/></a> | <a href="https://api.whatsapp.com/send?phone=+919305859379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a> |
-|---|---|---|---|
-</div>
-
-Coding Platform 
-  <a href="https://leetcode.com/u/ishendrarai/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" align="left" width="80" height="80" />
-  </a> 
-  
--->
-
-<!--![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)-->
