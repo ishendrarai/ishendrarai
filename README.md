@@ -42,11 +42,30 @@
   </a>
 </div>
 
+<div align="center">
 
+<h1>🧑‍💻 About Me 🧑‍💻</h1>
 
+<p align="center">
 
- <div align="center">
-  
+• 🎓 Computer Science student passionate about building <b>scalable and impactful software</b><br><br>
+• 🚀 Currently developing projects like <b>SwiftChat</b>, <b>Music Streaming App</b>, and <b>Ambienz</b><br><br>
+• 💡 Interested in <b>Backend Development</b>, <b>System Design</b>, and <b>AI-powered applications</b><br><br>
+• 🧠 Enjoy solving algorithmic problems and practicing <b>competitive programming</b><br><br>
+• 🛠 Experienced with <b>Python, Java, JavaScript, Node.js, React</b>, and modern web technologies<br><br>
+• 📚 Always learning new technologies and improving <b>problem-solving skills</b><br><br>
+• 🎯 Goal: Become a <b>high-impact software developer and technology entrepreneur</b>
+
+</p>
+
+</div>
+<div align="center">
+
+<details>
+<summary><h1>🧰 Technical Skills 🧰</h1></summary>
+
+<br>
+
 | 🏷️ **Category**               | 🚀 **Technologies & Tools** |
 |-------------------------------|------------------------------|
 | **Languages / Frameworks**    | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) |
@@ -56,8 +75,59 @@
 | **CI / CD & Tooling**         | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellijidea&logoColor=white) |
 | **Web / Software Principles** | ![Agile](https://img.shields.io/badge/Agile-008272.svg?logo=atlassian&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733.svg?logo=java&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF.svg?logo=diagram&logoColor=white) |
 
-</div> 
+</details>
 
+</div>
+
+<div align="center">
+
+<details>
+<summary><h1>🚀 Featured Projects 🚀</h1></summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+</tr>
+
+<tr>
+<td>🚀 <a href="https://github.com/ishendrarai/swiftchat"><b>SwiftChat</b></a></td>
+<td>AI-powered social media platform with smart caption generation, emotion-based search, and AI chatbot integration.</td>
+<td>Next.js, Node.js, MongoDB</td>
+</tr>
+
+<tr>
+<td>🎧 <a href="https://github.com/ishendrarai/music-streaming-app"><b>Music Streaming App</b></a></td>
+<td>Android music streaming application with real-time group listening and synchronized playback across multiple devices.</td>
+<td>Java, Android, WebSockets, Firebase</td>
+</tr>
+
+<tr>
+<td>📸 <a href="https://github.com/ishendrarai/photo-organizer"><b>Photo Organizer</b></a></td>
+<td>Python tool to automatically organize thousands of photos using metadata like date, camera, and GPS.</td>
+<td>Python</td>
+</tr>
+
+<tr>
+<td>🌐 <a href="https://github.com/ishendrarai/portfolio"><b>Developer Portfolio</b></a></td>
+<td>Interactive portfolio website showcasing projects, skills, and GitHub integration.</td>
+<td>React, CSS, JavaScript</td>
+</tr>
+
+<tr>
+<td>🎶 <a href="https://github.com/ishendrarai/ambienz"><b>Ambienz</b></a></td>
+<td>Ambient music platform designed for focus, relaxation, and productivity with curated sound environments.</td>
+<td>React, Node.js</td>
+</tr>
+
+</table>
+
+</details>
+
+</div>
 <!-- 📈 GitHub Activity Graph-->
 
 <div align="center">
