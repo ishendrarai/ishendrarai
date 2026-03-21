@@ -30,7 +30,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I'm+Ishendra+Rai;4%2B+years+of+programming+experience;Passionate+about+solving+real-world+problems;Always+learning+and+exploring+new+technologies;Aspiring+Software+Developer+|+Passionate+Entrepreneur"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I'm+Ishendra+Rai;Building+projects+and+exploring+new+technologies;Passionate+about+solving+real-world+problems;Always+learning+and+exploring+new+technologies;Aspiring+Software+Developer+|+Passionate+Entrepreneur"
       alt="Typing SVG"
     />
   </a>
@@ -158,33 +158,9 @@
 
 <!-- Language Statistics -->
 
-<div align="center">
 
-| 📦 Repos Per Language 📦                                                                                                                    | ⚡ Most Commit Language ⚡                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishendrarai&theme=algolia" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishendrarai&theme=algolia" height="180px"/> |
 
-</div>
 
-<!-- Additional Stats -->
-
-<div align="center">
-
-| 📈 GitHub Stats Overview 📈                                                                                                    | ⏰ Productive Time ⏰                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishendrarai&theme=algolia" height="180px"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishendrarai&theme=algolia&utcOffset=5" height="180px"/> |
-
-</div>
-
-<!-- Profile Details -->
-
-<div align="center">
-
-| 📜 Profile Details 📜                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishendrarai&theme=algolia" /> |
-
-</div>
 
   <!--   green snake  -->
   <div align="center">
@@ -197,11 +173,7 @@
          alt="GitHub Snake Dark" />
   </div>
 
-  <!-- trophies -->
-  <div align="center">
-    <h3>🏆 GitHub Trophies 🏆</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=ishendrarai&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </div>
+
 
   <!-- activity graph -->
   <div align="center">
@@ -210,13 +182,7 @@
     </a>
   </div>
 
-  <!-- star history -->
-  <div align="center">
-    <h3>⭐ Star History ⭐</h3>
-    <a href="https://star-history.com/#ishendrarai/ishendrarai&Date">
-      <img src="https://api.star-history.com/svg?repos=ishendrarai/ishendrarai&type=Date" alt="Star History Chart"/>
-    </a>
-  </div>
+
 
 </details>
 </div>
@@ -233,14 +199,7 @@
      <img src="https://leetcard.jacoblin.cool/ishendrarai?theme=dark&font=Laila&ext=heatmap" alt="LeetCode Stats"/>
   </p>
 
-<!-- Music Video-->
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=vrwiN8dPN6c">
-    <img src="https://img.youtube.com/vi/vrwiN8dPN6c/maxresdefault.jpg" width="700" alt="Music Video">
-  </a>
-  <br><br>
-  <a href="https://www.youtube.com/watch?v=vrwiN8dPN6c"><b>▶ Watch My Music Video</b></a>
-</p>
+
   <!--<p align="center">
     <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
   </p>-->
@@ -264,36 +223,6 @@
     <img src="https://s01.flagcounter.com/count2/qDAy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_65/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
   </a>
 </p>
-<!-- Jhansi - My Home-->
-  
- ```geojson
-
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": "1",
-      "properties": {
-        "name": "Jhansi"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [78.55, 25.46],
-            [78.59, 25.46],
-            [78.59, 25.44],
-            [78.55, 25.44],
-            [78.55, 25.46]
-          ]
-        ]
-      }
-    }
-  ]
-}
-
-```
 </details>
 </div>
 
@@ -402,7 +331,28 @@
 </div>
 </details>
 
+<div align="center">
 
+<details>
+<summary><h1>🎵 Creative Work 🎵</h1></summary>
+
+<br>
+
+<p align="center">
+I also enjoy creating music and experimenting with audio projects.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vrwiN8dPN6c">
+    <img src="https://img.youtube.com/vi/vrwiN8dPN6c/maxresdefault.jpg" width="700">
+  </a>
+  <br><br>
+  <a href="https://www.youtube.com/watch?v=vrwiN8dPN6c"><b>▶ Watch My Music Video</b></a>
+</p>
+
+</details>
+
+</div>
 
 <!-- GuestBook -->
 <div align="center">
@@ -418,7 +368,7 @@
   Or ask me anything at 
   <a href="https://github.com/ishendrarai/ishendrarai/discussions/new/choose">Discussions</a>!
 </p>
-
+>
 <!--Thank you For Visiting-->
 <p align="center">
   <img src="./assets/Banner_down.gif" alt="Banner_up" height="200" width="854">
