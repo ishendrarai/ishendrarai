@@ -41,9 +41,9 @@
     <img src="assets/Animation.gif"  alt="Profile Animation">
   </a>
 </div>
-
 <div align="center">
 <h1>🧑‍💻 About Me 🧑‍💻</h1>
+</div>
 
 <p align="left">
 
@@ -55,10 +55,7 @@
 • 📚 Constantly exploring new technologies and improving <b>system design thinking</b><br>
 • 🎯 Goal: Build impactful products and become a <b>technology entrepreneur</b>
 
-
 </p>
-
-</div>
 <hr>
 <div align="center">
 
