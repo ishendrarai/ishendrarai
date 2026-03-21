@@ -274,7 +274,7 @@ graph TD
 <!-- Social icons section -->
 <div align="center">
 <details>
-  <summary><h1><strong>📫 Connect with ME 📫 </strong></h1></summary>
+  <summary><h1><strong>📫 Connect with Me 📫 </strong></h1></summary>
   <br/>
 <table>
   <!-- Row 1 -->
