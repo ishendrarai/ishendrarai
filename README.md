@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ishendrarai/">
-    <img src="assets/Animation.gif"  alt="Profile Animation">
+    <img src="assets/Animation.gif"  alt="Profile Animation" width="1000" height="800">
   </a>
 </div>
 <div align="center">
@@ -365,7 +365,10 @@ I also enjoy creating music and experimenting with audio projects.
   Or ask me anything at 
   <a href="https://github.com/ishendrarai/ishendrarai/discussions/new/choose">Discussions</a>!
 </p>
->
+ <a href="mailto:ishurai.020805@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="64" height="64"/>
+        <br/>Connect with ME
+  </a>
 <!--Thank you For Visiting-->
 <p align="center">
   <img src="./assets/Banner_down.gif" alt="Banner_up" height="200" width="854">
