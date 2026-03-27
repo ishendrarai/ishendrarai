@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ishendrarai/">
-    <img src="assets/Animation.gif"  alt="Profile Animation" width="1000" height="800">
+    <img src="assets/Animation.gif"  alt="Profile Animation" width="1200" height="800">
   </a>
 </div>
 <div align="center">
