@@ -46,14 +46,14 @@
 </div>
 
 <p align="left">
-
-• 🎓 Computer Science student focused on building scalable applications and intelligent software systems<br>
-• 🚀 Building projects such as <b>SwiftChat</b>, <b>CodeOne</b>, and <b>Ambienz</b><br>
-• 💡 Interested in <b>Software Engineering</b>, <b>System Design</b>, and <b>AI / Generative AI applications</b><br>
-• 🧠 Actively practicing <b>competitive programming</b> and algorithmic problem solving<br>
-• 🛠 Experienced with <b>Python, Java, JavaScript, Node.js, React</b>, and modern development tools<br>
-• 📚 Constantly exploring new technologies and improving <b>system design thinking</b><br>
-• 🎯 Goal: Build impactful products and become a <b>technology entrepreneur</b>
+  
+• 🎓 Computer Science student passionate about building scalable systems and intelligent software<br>
+• 🚀 Developing impactful projects like <b>CodeOne</b>, <b>SwiftChat</b>, and <b>AmbienZ</b><br>
+• 💡 Focused on <b>Software Engineering</b>, <b>System Design</b>, and <b>AI / Generative AI</b><br>
+• 🧠 Actively practicing <b>competitive programming</b> and problem solving<br>
+• 🛠 Skilled in <b>Python, Java, JavaScript, Node.js, React</b>, and modern dev tools<br>
+• 📚 Continuously learning and improving <b>system design & scalable architecture</b><br>
+• 🎯 Goal: Build real-world products and grow into a <b>technology entrepreneur</b>
 
 </p>
 <hr>
@@ -64,14 +64,14 @@
 
 <br>
 
-| 🏷️ **Category**               | 🚀 **Technologies & Tools** |
-|-------------------------------|------------------------------|
-| **Languages / Frameworks**    | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) |
-| **Web Development**           | ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB) |
-| **Backend / Databases**       | ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white) |
-| **Domain Knowledge**          | ![Computer Science](https://img.shields.io/badge/Computer%20Science-FAB040.svg?logo=academia&logoColor=white) ![Software Development](https://img.shields.io/badge/Software%20Development-FD6C35.svg?logo=code&logoColor=white) |
-| **CI / CD & Tooling**         | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellijidea&logoColor=white) |
-| **Web / Software Principles** | ![Agile](https://img.shields.io/badge/Agile-008272.svg?logo=atlassian&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF5733.svg?logo=java&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF.svg?logo=diagram&logoColor=white) |
+| 🏷️ Category | 🚀 Technologies |
+|------------|----------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white) |
+| **Databases & Cache** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white) |
+| **Core Concepts** | ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF.svg) ![OOP](https://img.shields.io/badge/OOP-FF5733.svg) ![REST APIs](https://img.shields.io/badge/REST%20APIs-6DB33F.svg) |
 
 </details>
 
@@ -80,51 +80,68 @@
 <div align="center">
 
 <details>
-<summary><h1>🚀 Featured Projects 🚀</h1></summary>
+<summary><h1>🚀 Featured Projects</h1></summary>
 
 <br>
 
 <table width="100%">
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Tech Stack</th>
 </tr>
 
 <tr>
-<td>🚀 <a href="https://github.com/ishendrarai/swiftchat"><b>SwiftChat</b></a></td>
-<td>AI-powered social media platform with smart caption generation, emotion-based search, and AI chatbot integration.</td>
-<td>Next.js, Node.js, MongoDB</td>
+<td><a href="https://github.com/ishendrarai/CodeOne"><b>CodeOne🧠</b></a></td>
+<td>
+Full-stack competitive programming analytics platform aggregating data from LeetCode, Codeforces, HackerRank, AtCoder, and CodeChef into a unified dashboard. 
+Implements real-time data sync, streak tracking, advanced performance analytics, and contest aggregation. 
+Features include multi-platform integration, Redis caching, PostgreSQL-based analytics engine, and scalable modular architecture.
+</td>
+<td>React • Node.js • Express • PostgreSQL • Redis • Tailwind • TypeScript</td>
 </tr>
 
 <tr>
-<td>🎧 <a href="https://github.com/ishendrarai/music-streaming-app"><b>Music Streaming App</b></a></td>
-<td>Android music streaming application with real-time group listening and synchronized playback across multiple devices.</td>
-<td>Java, Android, WebSockets, Firebase</td>
+<td><a href="https://github.com/ishendrarai/swiftchat"><b>SwiftChat🚀</b></a></td>
+<td>
+Full-stack social media platform with real-time feed and notifications using Socket.io. 
+Implements secure JWT authentication with refresh token rotation, Redis-based token blacklisting, and scalable backend architecture. 
+Includes personalized feeds, follow system, trending discovery, and cursor-based pagination.
+</td>
+<td>React • Node.js • Express • MongoDB • Redis • Socket.io • TypeScript</td>
 </tr>
 
 <tr>
-<td>📸 <a href="https://github.com/ishendrarai/photo-organizer"><b>Photo Organizer</b></a></td>
-<td>Python tool to automatically organize thousands of photos using metadata like date, camera, and GPS.</td>
-<td>Python</td>
+<td><a href="https://github.com/ishendrarai/fundblaze"><b>FundBlaze🔥</b></a></td>
+<td>
+Full-stack crowdfunding platform with campaign creation, donations, and creator dashboard. 
+Implements JWT authentication with auto-refresh, real-time notifications, and secure payment integration (Razorpay/Stripe). 
+Includes campaign discovery, trending algorithm, and user analytics dashboard.
+</td>
+<td>React • TypeScript • Node.js • Express • MongoDB • Zustand • TanStack Query</td>
 </tr>
 
 <tr>
-<td>🌐 <a href="https://github.com/ishendrarai/portfolio"><b>Developer Portfolio</b></a></td>
-<td>Interactive portfolio website showcasing projects, skills, and GitHub integration.</td>
-<td>React, CSS, JavaScript</td>
+<td><a href="https://github.com/ishendrarai/JovialStreamingPlayer"><b>Jovial🎧</b></a></td>
+<td>
+Music streaming application with real-time playback capabilities and smooth user experience. 
+Supports synchronized streaming, modern UI, and scalable architecture for handling multiple users.
+</td>
+<td>Java • Android • WebSockets • Firebase</td>
 </tr>
 
 <tr>
-<td>🎶 <a href="https://github.com/ishendrarai/ambienz"><b>Ambienz</b></a></td>
-<td>Ambient music platform designed for focus, relaxation, and productivity with curated sound environments.</td>
-<td>React, Node.js</td>
+<td><a href="https://github.com/ishendrarai/ambienz"><b>AmbienZ🎶</b></a></td>
+<td>
+Real-time desktop application that captures screen colors and synchronizes them with WiZ smart bulbs over local network using UDP. 
+Implements advanced color extraction algorithms, gamma correction, smoothing, and multi-device sync with low-latency performance.
+</td>
+<td>Python • PySide6 • OpenCV • NumPy • UDP Networking</td>
 </tr>
 
 </table>
 
 </details>
-
 </div>
 <!-- 📈 GitHub Activity Graph-->
 
