@@ -80,7 +80,7 @@
 <div align="center">
 
 <details>
-<summary><h1>🚀 Featured Projects</h1></summary>
+<summary><h1>🚀 Featured Projects 🚀</h1></summary>
 
 <br>
 
