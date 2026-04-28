@@ -92,49 +92,47 @@
 </tr>
 
 <tr>
-<td><a href="https://github.com/ishendrarai/CodeOne"><b>CodeOne🧠</b></a></td>
+<td><a href="https://github.com/ishendrarai/CodeOne"><b>🧠 CodeOne</b></a></td>
 <td>
-Full-stack competitive programming analytics platform aggregating data from LeetCode, Codeforces, HackerRank, AtCoder, and CodeChef into a unified dashboard. 
-Implements real-time data sync, streak tracking, advanced performance analytics, and contest aggregation. 
-Features include multi-platform integration, Redis caching, PostgreSQL-based analytics engine, and scalable modular architecture.
+Full-stack competitive programming analytics platform aggregating data from LeetCode, Codeforces, HackerRank, AtCoder, and CodeChef into a unified dashboard.<br><br>
+Implements real-time sync, streak tracking, advanced performance insights, and scalable modular architecture.
 </td>
 <td>React • Node.js • Express • PostgreSQL • Redis • Tailwind • TypeScript</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/ishendrarai/swiftchat"><b>SwiftChat🚀</b></a></td>
+<td><a href="https://github.com/ishendrarai/swiftchat"><b>🚀 SwiftChat</b></a></td>
 <td>
-Full-stack social media platform with real-time feed and notifications using Socket.io. 
-Implements secure JWT authentication with refresh token rotation, Redis-based token blacklisting, and scalable backend architecture. 
-Includes personalized feeds, follow system, trending discovery, and cursor-based pagination.
+Real-time social media platform with live feed and notifications using Socket.io.<br><br>
+Includes secure JWT authentication, Redis-based token handling, personalized feeds, and scalable backend design.
 </td>
 <td>React • Node.js • Express • MongoDB • Redis • Socket.io • TypeScript</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/ishendrarai/fundblaze"><b>FundBlaze🔥</b></a></td>
+<td><a href="https://github.com/ishendrarai/fundblaze"><b>🔥 FundBlaze</b></a></td>
 <td>
-Full-stack crowdfunding platform with campaign creation, donations, and creator dashboard. 
-Implements JWT authentication with auto-refresh, real-time notifications, and secure payment integration (Razorpay/Stripe). 
-Includes campaign discovery, trending algorithm, and user analytics dashboard.
+Full-stack crowdfunding platform with campaign creation, donations, and creator dashboard.<br><br>
+Supports real-time updates, secure payments, and analytics-driven campaign discovery.
 </td>
 <td>React • TypeScript • Node.js • Express • MongoDB • Zustand • TanStack Query</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/ishendrarai/JovialStreamingPlayer"><b>Jovial🎧</b></a></td>
+<td><a href="https://github.com/ishendrarai/Jovial"><b>🎧 Jovial</b></a></td>
 <td>
-Music streaming application with real-time playback capabilities and smooth user experience. 
-Supports synchronized streaming, modern UI, and scalable architecture for handling multiple users.
+Full-stack real-time music streaming platform focused on shared listening experiences.<br><br>
+Implements Together Mode (2-user sync), Listening Rooms (group sessions), and StereoLink (dual-device stereo system) using WebSockets, WebRTC, and advanced clock synchronization.<br><br>
+Designed with scalable architecture, low-latency real-time communication, and distributed state management.
 </td>
-<td>Java • Android • WebSockets • Firebase</td>
+<td>React • Node.js • MongoDB • Redis • Socket.io • WebRTC • Web Audio API • TypeScript</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/ishendrarai/ambienz"><b>AmbienZ🎶</b></a></td>
+<td><a href="https://github.com/ishendrarai/ambienz"><b>🎶 AmbienZ</b></a></td>
 <td>
-Real-time desktop application that captures screen colors and synchronizes them with WiZ smart bulbs over local network using UDP. 
-Implements advanced color extraction algorithms, gamma correction, smoothing, and multi-device sync with low-latency performance.
+Real-time desktop system that syncs screen colors with WiZ smart bulbs using UDP.<br><br>
+Implements advanced color processing, smoothing, and low-latency multi-device synchronization.
 </td>
 <td>Python • PySide6 • OpenCV • NumPy • UDP Networking</td>
 </tr>
