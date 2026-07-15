@@ -19,11 +19,9 @@
   <a href="https://www.java.com/">
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="60" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Hi+there+👋,+I'm+Ishendra+Rai;Building+projects+and+exploring+new+technologies;Passionate+about+solving+real-world+problems;Always+learning+and+exploring+new+technologies;Aspiring+Software+Developer+|+Passionate+Entrepreneur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7FF&center=true&vCenter=true&width=660&lines=Hi+there+👋,+I'm+Ishendra+Rai;Building+projects+and+exploring+new+technologies;Passionate+about+solving+real-world+problems;Always+learning+and+exploring+new+technologies;Aspiring+Software+Developer+|+Passionate+Entrepreneur" alt="Typing SVG" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60" />
   </a>
@@ -150,7 +148,7 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
 
 | 📈 LeetCode Stats 📈 |
 | :------------------: |
-| <img src="https://leetcard.jacoblin.cool/ishendrarai?theme=dark&font=Laila&ext=heatmap" height="180px" alt="LeetCode Stats"/> |
+| <img src="https://leetcard.jacoblin.cool/ishendrarai?theme=dark&font=Laila&ext=heatmap" alt="LeetCode Stats"/> |
 
 </div>
 
