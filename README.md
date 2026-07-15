@@ -59,8 +59,7 @@
 <hr>
 <div align="center">
 
-<details>
-<summary><h1>🧰 Technical Skills 🧰</h1></summary>
+<h1>🧰 Technical Skills 🧰</h1>
 
 <br>
 
@@ -73,14 +72,13 @@
 | **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white) |
 | **Core Concepts** | ![System Design](https://img.shields.io/badge/System%20Design-4C8CBF.svg) ![OOP](https://img.shields.io/badge/OOP-FF5733.svg) ![REST APIs](https://img.shields.io/badge/REST%20APIs-6DB33F.svg) |
 
-</details>
+
 
 </div>
 
 <div align="center">
 
-<details>
-<summary><h1>🚀 Featured Projects 🚀</h1></summary>
+<h1>🚀 Featured Projects 🚀</h1>
 
 <br>
 
@@ -139,13 +137,12 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
 
 </table>
 
-</details>
+
 </div>
 <!-- 📈 GitHub Activity Graph-->
 
 <div align="center">
-<details>
-  <summary><h1>📈 GitHub Activity Graph 📈</h1></summary>
+  <h1>📈 GitHub Activity Graph 📈</h1>
   <br/>
 
  <!-- Contribution Streak -->
@@ -196,15 +193,14 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
 
 
 
-</details>
+
 </div>
 
 
 
 <!-- 📊 Profile Insights 📊-->
 <div align="center">
-<details>
-  <summary><h1>📊 Profile Insights 📊 </h1></summary>
+  <h1>📊 Profile Insights 📊 </h1>
   <br/>
   
   <p align="center">
@@ -235,14 +231,13 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
     <img src="https://s01.flagcounter.com/count2/qDAy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_65/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
   </a>
 </p>
-</details>
+
 </div>
 
 
 <!-- Social icons section -->
 <div align="center">
-<details>
-  <summary><h1><strong>📫 Connect with Me 📫 </strong></h1></summary>
+  <h1><strong>📫 Connect with Me 📫 </strong></h1>
   <br/>
 <table>
   <!-- Row 1 -->
@@ -299,7 +294,7 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
   <tr>
     <td align="center" width="130">
       <a href="https://www.codechef.com/users/ishendrarai" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/codechef" width="60" height="60"/>
         <br/>CodeChef
       </a>
     </td>
@@ -341,12 +336,11 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
 </table>
 
 </div>
-</details>
+
 
 <div align="center">
 
-<details>
-<summary><h1>🎵 Creative Work 🎵</h1></summary>
+<h1>🎵 Creative Work 🎵</h1>
 
 <br>
 
@@ -362,7 +356,7 @@ I also enjoy creating music and experimenting with audio projects.
   <a href="https://www.youtube.com/watch?v=vrwiN8dPN6c"><b>▶ Watch My Music Video</b></a>
 </p>
 
-</details>
+
 
 </div>
 
