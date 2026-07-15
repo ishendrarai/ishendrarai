@@ -12,27 +12,20 @@
     <a href="https://github.com/ishendrarai/ishendrarai/graphs/contributors"><img src="https://img.shields.io/github/contributors/ishendrarai/ishendrarai?color=blue"></a>
     <a href="https://github.com/ishendrarai/ishendrarai/stargazers"><img src="https://img.shields.io/github/stars/ishendrarai/ishendrarai.svg?logo=github"></a>
     <a href="https://github.com/ishendrarai/ishendrarai/network/members"><img src="https://img.shields.io/github/forks/ishendrarai/ishendrarai.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ishendrarai" alt="visitors"/>   
 </p>
 
-<!-- Python & Java Logo with Link  -->
-<a href="https://www.java.com/">
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" align="left" height="80">
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="70">
-</a>
-
-
-<!--   Name Display -->    
-
+<!-- Tech Logos & Name Display -->
 <p align="center">
+  <a href="https://www.java.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I'm+Ishendra+Rai;Building+projects+and+exploring+new+technologies;Passionate+about+solving+real-world+problems;Always+learning+and+exploring+new+technologies;Aspiring+Software+Developer+|+Passionate+Entrepreneur"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Hi+there+👋,+I'm+Ishendra+Rai;Building+projects+and+exploring+new+technologies;Passionate+about+solving+real-world+problems;Always+learning+and+exploring+new+technologies;Aspiring+Software+Developer+|+Passionate+Entrepreneur" alt="Typing SVG" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60" />
   </a>
 </p>
 
@@ -149,9 +142,15 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
 
 <div align="center">
 
-| 🔥 Contribution Streak 🔥                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------- |
+| 🔥 Contribution Streak 🔥 |
+| :-----------------------: |
 | <img src="https://streak-stats.demolab.com?user=ishendrarai&theme=algolia&hide_border=true&border_radius=5" height="180px"/> |
+
+<br/>
+
+| 📈 LeetCode Stats 📈 |
+| :------------------: |
+| <img src="https://leetcard.jacoblin.cool/ishendrarai?theme=dark&font=Laila&ext=heatmap" height="180px" alt="LeetCode Stats"/> |
 
 </div>
 
@@ -166,10 +165,6 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
 </div>
 
 <!-- Language Statistics -->
-
-
-
-
 
   <!--   green snake  -->
   <div align="center">
@@ -191,31 +186,6 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
     </a>
   </div>
 
-
-
-
-</div>
-
-
-
-<!-- 📊 Profile Insights 📊-->
-<div align="center">
-  <h1>📊 Profile Insights 📊 </h1>
-  <br/>
-  
-  <p align="center">
-     <img src="https://leetcard.jacoblin.cool/ishendrarai?theme=dark&font=Laila&ext=heatmap" alt="LeetCode Stats"/>
-  </p>
-
-
-  <!--<p align="center">
-    <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
-  </p>-->
-
-  <p align="center">
-    <img src="https://count.getloli.com/get/@ishendrarai.github.readme" alt="Visitor Counter"/>
-  </p>
-
   <p align="center">
     <a href="https://github.com/ishendrarai?tab=repositories&sort=stargazers">
       <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishendrarai"/>
@@ -224,15 +194,12 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
       <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/ishendrarai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
   </p>
-  
-  <p align="center">
-   <i>Visitor tracking for this page started on <b>September 1, 2025</b></i>  
-  <a href="https://info.flagcounter.com/qDAy">
-    <img src="https://s01.flagcounter.com/count2/qDAy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_65/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
-</p>
+
+
+
 
 </div>
+
 
 
 <!-- Social icons section -->
