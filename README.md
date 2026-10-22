@@ -276,7 +276,27 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
       </a>
     </td>
   </tr>
-
+<!-- Row 4 -->
+  <tr>
+    <td align="center" width="130">
+      <a href="https://x.com/ishendrarai02" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="48" height="48"/>
+        <br/>Twitter (X)
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://discordapp.com/users/ishendrarai" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="48" height="48"/>
+        <br/>Discord
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://t.me/dalahousie" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="48" height="48"/>
+        <br/>Telegram
+      </a>
+    </td>
+  </tr>
   <!-- Row 5 -->
 
 <tr>
