@@ -277,27 +277,26 @@ Implements advanced color processing, smoothing, and low-latency multi-device sy
     </td>
   </tr>
 
-  <!-- Row 4 -->
-  <tr>
-    <td align="center" width="130">
-      <a href="https://x.com/ishendrarai02" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="48" height="48"/>
-        <br/>Twitter (X)
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://discordapp.com/users/ishendrarai" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="48" height="48"/>
-        <br/>Discord
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://t.me/dalahousie" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="48" height="48"/>
-        <br/>Telegram
-      </a>
-    </td>
-  </tr>
+  <!-- Row 5 -->
+
+<tr>
+  <td align="center" colspan="3">
+    <a href="https://takeuforward.org/profile/ishurai02" target="_blank">
+      <img
+        src="https://i.tracxn.com/logo/company/fcd74dbcd08cecd4f1b63bdc37b2a948?format=webp&height=120&width=120"
+        width="48"
+        height="48"
+        alt="Take U Forward"
+      />
+      <br />
+      Take U Forward
+    </a>
+  </td>
+</tr>
+
+
+
+
 </table>
 
 </div>
